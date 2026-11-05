@@ -1,0 +1,1 @@
+{ "name": "arcpay-sdk", "version": "1.0.2", "scripts": { "verify": "sh scripts/verify.sh" } }
